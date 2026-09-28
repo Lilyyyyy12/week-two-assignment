@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    background: black;
+}
+.student-info{
+    color: red;
+}
+#about{
+    color: black;
+}
+#skills{
+    color: lightgreen;
+}
+#projects{
+    color: blue;
+}
+#contact{
+    color: lightpink;
+}
